@@ -3,6 +3,8 @@ logs
 *.log
 *.js
 *.js.map
+.DS_Store
+.vscode
 npm-debug.log*
 
 # Runtime data
